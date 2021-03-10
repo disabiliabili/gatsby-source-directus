@@ -1,8 +1,8 @@
 {
-	"name": "@directus/gatsby-source-directus",
+	"name": "@disabiliabili/gatsby-source-directus",
 	"version": "9.0.0-rc.45",
 	"description": "Source plugin for pulling data into Gatsby from a Directus API.",
-	"author": "João Biondo <wolfulus@gmail.com>",
+	"author": "Dario De Cianni <dario@trame-digitali.it>",
 	"license": "MIT",
 	"keywords": [
 		"gatsby",
@@ -19,10 +19,9 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/directus/directus.git",
-		"directory": "packages/gatsby-source-directus"
+		"url": "git+https://github.com/disabiliabili//gatsby-source-directus.git",
 	},
 	"bugs": {
-		"url": "https://github.com/directus/directus/issues"
+		"url": "https://github.com/disabiliabili//gatsby-source-directus/issues"
 	}
 }
